@@ -1,0 +1,511 @@
+Apr 14 18:26:30 10.71.51.0 u85824642 Connection from 10.71.51.0 port 49078 on 82.165.86.111 port 22
+Apr 14 18:26:35 10.71.51.0 u85824642 Accepted password for u85824642 from 10.71.51.0 port 49078 ssh2
+Apr 14 18:26:35 10.71.51.0 u85824642 Starting session: subsystem 'sftp' for u85824642 from 10.71.51.0 port 49078
+Apr 14 18:26:35 10.71.51.0 u85824642 session opened for local user u85824642 from [10.71.51.0]
+Apr 14 18:28:19 10.71.51.0 u85824642 Connection from 10.71.51.0 port 65386 on 82.165.86.111 port 22
+Apr 14 18:28:19 10.71.51.0 u85824642 Accepted password for u85824642 from 10.71.51.0 port 65386 ssh2
+Apr 14 18:28:19 10.71.51.0 u85824642 Connection from 10.71.51.0 port 65392 on 82.165.86.111 port 22
+Apr 14 18:28:19 10.71.51.0 u85824642 Accepted password for u85824642 from 10.71.51.0 port 65392 ssh2
+Apr 14 18:28:19 10.71.51.0 u85824642 Starting session: subsystem 'sftp' for u85824642 from 10.71.51.0 port 65386
+Apr 14 18:28:19 10.71.51.0 u85824642 Starting session: subsystem 'sftp' for u85824642 from 10.71.51.0 port 65392
+Apr 14 18:28:19 10.71.51.0 u85824642 session opened for local user u85824642 from [10.71.51.0]
+Apr 14 18:28:19 10.71.51.0 u85824642 session opened for local user u85824642 from [10.71.51.0]
+Apr 14 18:28:20 10.71.51.0 u85824642 open "/index.html" flags READ mode 0666
+Apr 14 18:28:20 10.71.51.0 u85824642 open "/favicon.ico" flags READ mode 0666
+Apr 14 18:28:20 10.71.51.0 u85824642 close "/index.html" bytes read 34620 written 0
+Apr 14 18:28:20 10.71.51.0 u85824642 [10.71.51.0|get|0|34620|0|0|0|2f696e6465782e68746d6c|]
+Apr 14 18:28:20 10.71.51.0 u85824642 close "/favicon.ico" bytes read 16958 written 0
+Apr 14 18:28:20 10.71.51.0 u85824642 [10.71.51.0|get|0|16958|0|0|0|2f66617669636f6e2e69636f|]
+Apr 14 18:28:20 10.71.51.0 u85824642 open "/mail.php" flags READ mode 0666
+Apr 14 18:28:20 10.71.51.0 u85824642 open "/mail_2.html" flags READ mode 0666
+Apr 14 18:28:20 10.71.51.0 u85824642 close "/mail.php" bytes read 1869 written 0
+Apr 14 18:28:20 10.71.51.0 u85824642 [10.71.51.0|get|0|1869|0|0|0|2f6d61696c2e706870|]
+Apr 14 18:28:20 10.71.51.0 u85824642 close "/mail_2.html" bytes read 1869 written 0
+Apr 14 18:28:20 10.71.51.0 u85824642 [10.71.51.0|get|0|1869|0|0|0|2f6d61696c5f322e68746d6c|]
+Apr 14 18:28:20 10.71.51.0 u85824642 open "/css/style.css" flags READ mode 0666
+Apr 14 18:28:20 10.71.51.0 u85824642 open "/css/responsive.css" flags READ mode 0666
+Apr 14 18:28:20 10.71.51.0 u85824642 close "/css/style.css" bytes read 25281 written 0
+Apr 14 18:28:20 10.71.51.0 u85824642 [10.71.51.0|get|0|25281|0|0|0|2f6373732f7374796c652e637373|]
+Apr 14 18:28:20 10.71.51.0 u85824642 close "/css/responsive.css" bytes read 8949 written 0
+Apr 14 18:28:20 10.71.51.0 u85824642 [10.71.51.0|get|0|8949|0|0|0|2f6373732f726573706f6e736976652e637373|]
+Apr 14 18:28:21 10.71.51.0 u85824642 open "/file/curriculoM (2)-2.pdf" flags READ mode 0666
+Apr 14 18:28:21 10.71.51.0 u85824642 open "/img/background1.jpg" flags READ mode 0666
+Apr 14 18:28:21 10.71.51.0 u85824642 close "/file/curriculoM (2)-2.pdf" bytes read 149641 written 0
+Apr 14 18:28:21 10.71.51.0 u85824642 [10.71.51.0|get|0|149641|0|0|0|2f66696c652f637572726963756c6f4d202832292d322e706466|]
+Apr 14 18:28:21 10.71.51.0 u85824642 open "/img/bg-texture1.jpg" flags READ mode 0666
+Apr 14 18:28:21 10.71.51.0 u85824642 close "/img/background1.jpg" bytes read 696146 written 0
+Apr 14 18:28:21 10.71.51.0 u85824642 [10.71.51.0|get|0|696146|0|0|0|2f696d672f6261636b67726f756e64312e6a7067|]
+Apr 14 18:28:21 10.71.51.0 u85824642 close "/img/bg-texture1.jpg" bytes read 68662 written 0
+Apr 14 18:28:21 10.71.51.0 u85824642 [10.71.51.0|get|0|68662|0|0|0|2f696d672f62672d74657874757265312e6a7067|]
+Apr 14 18:28:22 10.71.51.0 u85824642 open "/img/bg-texture2.jpg" flags READ mode 0666
+Apr 14 18:28:22 10.71.51.0 u85824642 open "/img/background.jpg" flags READ mode 0666
+Apr 14 18:28:22 10.71.51.0 u85824642 close "/img/background.jpg" bytes read 67349 written 0
+Apr 14 18:28:22 10.71.51.0 u85824642 [10.71.51.0|get|0|67349|0|0|0|2f696d672f6261636b67726f756e642e6a7067|]
+Apr 14 18:28:22 10.71.51.0 u85824642 close "/img/bg-texture2.jpg" bytes read 77876 written 0
+Apr 14 18:28:22 10.71.51.0 u85824642 [10.71.51.0|get|0|77876|0|0|0|2f696d672f62672d74657874757265322e6a7067|]
+Apr 14 18:28:22 10.71.51.0 u85824642 open "/img/big-button-bg.png" flags READ mode 0666
+Apr 14 18:28:22 10.71.51.0 u85824642 open "/img/loading.gif" flags READ mode 0666
+Apr 14 18:28:22 10.71.51.0 u85824642 close "/img/big-button-bg.png" bytes read 951 written 0
+Apr 14 18:28:22 10.71.51.0 u85824642 [10.71.51.0|get|0|951|0|0|0|2f696d672f6269672d627574746f6e2d62672e706e67|]
+Apr 14 18:28:22 10.71.51.0 u85824642 close "/img/loading.gif" bytes read 8476 written 0
+Apr 14 18:28:22 10.71.51.0 u85824642 [10.71.51.0|get|0|8476|0|0|0|2f696d672f6c6f6164696e672e676966|]
+Apr 14 18:28:22 10.71.51.0 u85824642 open "/img/menu-button-bg.png" flags READ mode 0666
+Apr 14 18:28:22 10.71.51.0 u85824642 open "/img/tri-gray-bot.png" flags READ mode 0666
+Apr 14 18:28:22 10.71.51.0 u85824642 close "/img/tri-gray-bot.png" bytes read 4782 written 0
+Apr 14 18:28:22 10.71.51.0 u85824642 [10.71.51.0|get|0|4782|0|0|0|2f696d672f7472692d677261792d626f742e706e67|]
+Apr 14 18:28:22 10.71.51.0 u85824642 close "/img/menu-button-bg.png" bytes read 949 written 0
+Apr 14 18:28:22 10.71.51.0 u85824642 [10.71.51.0|get|0|949|0|0|0|2f696d672f6d656e752d627574746f6e2d62672e706e67|]
+Apr 14 18:28:22 10.71.51.0 u85824642 open "/img/tri-gray-top.png" flags READ mode 0666
+Apr 14 18:28:22 10.71.51.0 u85824642 open "/img/tri-white-bot.png" flags READ mode 0666
+Apr 14 18:28:23 10.71.51.0 u85824642 close "/img/tri-gray-top.png" bytes read 4793 written 0
+Apr 14 18:28:23 10.71.51.0 u85824642 [10.71.51.0|get|0|4793|0|0|0|2f696d672f7472692d677261792d746f702e706e67|]
+Apr 14 18:28:23 10.71.51.0 u85824642 close "/img/tri-white-bot.png" bytes read 4769 written 0
+Apr 14 18:28:23 10.71.51.0 u85824642 [10.71.51.0|get|1|4769|0|0|0|2f696d672f7472692d77686974652d626f742e706e67|]
+Apr 14 18:28:23 10.71.51.0 u85824642 open "/img/tri-white-top.png" flags READ mode 0666
+Apr 14 18:28:23 10.71.51.0 u85824642 open "/img/logo_lys_footer.png" flags READ mode 0666
+Apr 14 18:28:23 10.71.51.0 u85824642 close "/img/tri-white-top.png" bytes read 4758 written 0
+Apr 14 18:28:23 10.71.51.0 u85824642 [10.71.51.0|get|0|4758|0|0|0|2f696d672f7472692d77686974652d746f702e706e67|]
+Apr 14 18:28:23 10.71.51.0 u85824642 close "/img/logo_lys_footer.png" bytes read 64400 written 0
+Apr 14 18:28:23 10.71.51.0 u85824642 [10.71.51.0|get|0|64400|0|0|0|2f696d672f6c6f676f5f6c79735f666f6f7465722e706e67|]
+Apr 14 18:28:23 10.71.51.0 u85824642 open "/img/logo_lys.png" flags READ mode 0666
+Apr 14 18:28:23 10.71.51.0 u85824642 open "/img/sliders/slider3.png" flags READ mode 0666
+Apr 14 18:28:23 10.71.51.0 u85824642 close "/img/logo_lys.png" bytes read 36133 written 0
+Apr 14 18:28:23 10.71.51.0 u85824642 [10.71.51.0|get|0|36133|0|0|0|2f696d672f6c6f676f5f6c79732e706e67|]
+Apr 14 18:28:23 10.71.51.0 u85824642 close "/img/sliders/slider3.png" bytes read 214191 written 0
+Apr 14 18:28:23 10.71.51.0 u85824642 [10.71.51.0|get|0|214191|0|0|0|2f696d672f736c69646572732f736c69646572332e706e67|]
+Apr 14 18:28:23 10.71.51.0 u85824642 open "/img/sliders/slider2.png" flags READ mode 0666
+Apr 14 18:28:23 10.71.51.0 u85824642 open "/img/sliders/slider1.png" flags READ mode 0666
+Apr 14 18:28:24 10.71.51.0 u85824642 close "/img/sliders/slider1.png" bytes read 273469 written 0
+Apr 14 18:28:24 10.71.51.0 u85824642 [10.71.51.0|get|1|273469|0|0|0|2f696d672f736c69646572732f736c69646572312e706e67|]
+Apr 14 18:28:24 10.71.51.0 u85824642 open "/img/extras/sirenita.png" flags READ mode 0666
+Apr 14 18:28:24 10.71.51.0 u85824642 close "/img/sliders/slider2.png" bytes read 385527 written 0
+Apr 14 18:28:24 10.71.51.0 u85824642 [10.71.51.0|get|1|385527|0|0|0|2f696d672f736c69646572732f736c69646572322e706e67|]
+Apr 14 18:28:24 10.71.51.0 u85824642 close "/img/extras/sirenita.png" bytes read 144139 written 0
+Apr 14 18:28:24 10.71.51.0 u85824642 [10.71.51.0|get|0|144139|0|0|0|2f696d672f6578747261732f736972656e6974612e706e67|]
+Apr 14 18:28:25 10.71.51.0 u85824642 open "/img/extras/marciana.png" flags READ mode 0666
+Apr 14 18:28:25 10.71.51.0 u85824642 open "/img/extras/esdip.jpg" flags READ mode 0666
+Apr 14 18:28:25 10.71.51.0 u85824642 close "/img/extras/marciana.png" bytes read 84608 written 0
+Apr 14 18:28:25 10.71.51.0 u85824642 [10.71.51.0|get|1|84608|0|0|0|2f696d672f6578747261732f6d61726369616e612e706e67|]
+Apr 14 18:28:25 10.71.51.0 u85824642 close "/img/extras/esdip.jpg" bytes read 2665 written 0
+Apr 14 18:28:25 10.71.51.0 u85824642 [10.71.51.0|get|0|2665|0|0|0|2f696d672f6578747261732f65736469702e6a7067|]
+Apr 14 18:28:25 10.71.51.0 u85824642 open "/img/extras/cice.jpg" flags READ mode 0666
+Apr 14 18:28:25 10.71.51.0 u85824642 close "/img/extras/cice.jpg" bytes read 4313 written 0
+Apr 14 18:28:25 10.71.51.0 u85824642 [10.71.51.0|get|0|4313|0|0|0|2f696d672f6578747261732f636963652e6a7067|]
+Apr 14 18:28:25 10.71.51.0 u85824642 open "/img/portafolio/screen12big.jpg" flags READ mode 0666
+Apr 14 18:28:25 10.71.51.0 u85824642 close "/img/portafolio/screen12big.jpg" bytes read 206768 written 0
+Apr 14 18:28:25 10.71.51.0 u85824642 [10.71.51.0|get|0|206768|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e31326269672e6a7067|]
+Apr 14 18:28:25 10.71.51.0 u85824642 open "/img/portafolio/screen11big.jpg" flags READ mode 0666
+Apr 14 18:28:25 10.71.51.0 u85824642 open "/img/portafolio/screen12.jpg" flags READ mode 0666
+Apr 14 18:28:26 10.71.51.0 u85824642 close "/img/portafolio/screen12.jpg" bytes read 19031 written 0
+Apr 14 18:28:26 10.71.51.0 u85824642 [10.71.51.0|get|1|19031|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e31322e6a7067|]
+Apr 14 18:28:26 10.71.51.0 u85824642 open "/img/portafolio/screen11.jpg" flags READ mode 0666
+Apr 14 18:28:26 10.71.51.0 u85824642 close "/img/portafolio/screen11.jpg" bytes read 44782 written 0
+Apr 14 18:28:26 10.71.51.0 u85824642 [10.71.51.0|get|0|44782|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e31312e6a7067|]
+Apr 14 18:28:26 10.71.51.0 u85824642 close "/img/portafolio/screen11big.jpg" bytes read 495984 written 0
+Apr 14 18:28:26 10.71.51.0 u85824642 [10.71.51.0|get|1|495984|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e31316269672e6a7067|]
+Apr 14 18:28:26 10.71.51.0 u85824642 open "/img/portafolio/screen10big.jpg" flags READ mode 0666
+Apr 14 18:28:26 10.71.51.0 u85824642 open "/img/portafolio/screen09big.jpg" flags READ mode 0666
+Apr 14 18:28:26 10.71.51.0 u85824642 close "/img/portafolio/screen10big.jpg" bytes read 171064 written 0
+Apr 14 18:28:26 10.71.51.0 u85824642 [10.71.51.0|get|0|171064|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e31306269672e6a7067|]
+Apr 14 18:28:26 10.71.51.0 u85824642 open "/img/portafolio/screen10.jpg" flags READ mode 0666
+Apr 14 18:28:26 10.71.51.0 u85824642 close "/img/portafolio/screen10.jpg" bytes read 15514 written 0
+Apr 14 18:28:26 10.71.51.0 u85824642 [10.71.51.0|get|0|15514|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e31302e6a7067|]
+Apr 14 18:28:26 10.71.51.0 u85824642 close "/img/portafolio/screen09big.jpg" bytes read 335805 written 0
+Apr 14 18:28:26 10.71.51.0 u85824642 [10.71.51.0|get|0|335805|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30396269672e6a7067|]
+Apr 14 18:28:27 10.71.51.0 u85824642 open "/img/portafolio/screen08big.jpg" flags READ mode 0666
+Apr 14 18:28:27 10.71.51.0 u85824642 open "/img/portafolio/screen09.jpg" flags READ mode 0666
+Apr 14 18:28:27 10.71.51.0 u85824642 close "/img/portafolio/screen09.jpg" bytes read 30258 written 0
+Apr 14 18:28:27 10.71.51.0 u85824642 [10.71.51.0|get|0|30258|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30392e6a7067|]
+Apr 14 18:28:27 10.71.51.0 u85824642 close "/img/portafolio/screen08big.jpg" bytes read 303759 written 0
+Apr 14 18:28:27 10.71.51.0 u85824642 [10.71.51.0|get|0|303759|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30386269672e6a7067|]
+Apr 14 18:28:27 10.71.51.0 u85824642 open "/img/portafolio/screen07big.jpg" flags READ mode 0666
+Apr 14 18:28:27 10.71.51.0 u85824642 open "/img/portafolio/screen08.jpg" flags READ mode 0666
+Apr 14 18:28:27 10.71.51.0 u85824642 close "/img/portafolio/screen08.jpg" bytes read 50192 written 0
+Apr 14 18:28:27 10.71.51.0 u85824642 [10.71.51.0|get|0|50192|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30382e6a7067|]
+Apr 14 18:28:27 10.71.51.0 u85824642 close "/img/portafolio/screen07big.jpg" bytes read 130646 written 0
+Apr 14 18:28:27 10.71.51.0 u85824642 [10.71.51.0|get|0|130646|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30376269672e6a7067|]
+Apr 14 18:28:27 10.71.51.0 u85824642 open "/img/portafolio/screen07.jpg" flags READ mode 0666
+Apr 14 18:28:27 10.71.51.0 u85824642 open "/img/portafolio/screen06big.jpg" flags READ mode 0666
+Apr 14 18:28:28 10.71.51.0 u85824642 close "/img/portafolio/screen07.jpg" bytes read 37429 written 0
+Apr 14 18:28:28 10.71.51.0 u85824642 [10.71.51.0|get|1|37429|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30372e6a7067|]
+Apr 14 18:28:28 10.71.51.0 u85824642 open "/img/portafolio/screen06.jpg" flags READ mode 0666
+Apr 14 18:28:28 10.71.51.0 u85824642 close "/img/portafolio/screen06.jpg" bytes read 31511 written 0
+Apr 14 18:28:28 10.71.51.0 u85824642 [10.71.51.0|get|0|31511|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30362e6a7067|]
+Apr 14 18:28:28 10.71.51.0 u85824642 open "/img/portafolio/screen05big.jpg" flags READ mode 0666
+Apr 14 18:28:28 10.71.51.0 u85824642 close "/img/portafolio/screen06big.jpg" bytes read 261387 written 0
+Apr 14 18:28:28 10.71.51.0 u85824642 [10.71.51.0|get|1|261387|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30366269672e6a7067|]
+Apr 14 18:28:28 10.71.51.0 u85824642 close "/img/portafolio/screen05big.jpg" bytes read 167601 written 0
+Apr 14 18:28:28 10.71.51.0 u85824642 [10.71.51.0|get|0|167601|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30356269672e6a7067|]
+Apr 14 18:28:28 10.71.51.0 u85824642 open "/img/portafolio/screen04big.jpg" flags READ mode 0666
+Apr 14 18:28:28 10.71.51.0 u85824642 open "/img/portafolio/screen05.jpg" flags READ mode 0666
+Apr 14 18:28:29 10.71.51.0 u85824642 close "/img/portafolio/screen05.jpg" bytes read 37854 written 0
+Apr 14 18:28:29 10.71.51.0 u85824642 [10.71.51.0|get|1|37854|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30352e6a7067|]
+Apr 14 18:28:29 10.71.51.0 u85824642 open "/img/portafolio/screen04.jpg" flags READ mode 0666
+Apr 14 18:28:29 10.71.51.0 u85824642 close "/img/portafolio/screen04big.jpg" bytes read 154181 written 0
+Apr 14 18:28:29 10.71.51.0 u85824642 [10.71.51.0|get|1|154181|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30346269672e6a7067|]
+Apr 14 18:28:29 10.71.51.0 u85824642 close "/img/portafolio/screen04.jpg" bytes read 33060 written 0
+Apr 14 18:28:29 10.71.51.0 u85824642 [10.71.51.0|get|0|33060|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30342e6a7067|]
+Apr 14 18:28:29 10.71.51.0 u85824642 open "/img/portafolio/screen03big.jpg" flags READ mode 0666
+Apr 14 18:28:29 10.71.51.0 u85824642 open "/img/portafolio/screen03.jpg" flags READ mode 0666
+Apr 14 18:28:29 10.71.51.0 u85824642 close "/img/portafolio/screen03.jpg" bytes read 43318 written 0
+Apr 14 18:28:29 10.71.51.0 u85824642 [10.71.51.0|get|0|43318|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30332e6a7067|]
+Apr 14 18:28:29 10.71.51.0 u85824642 open "/img/portafolio/screen02big.jpg" flags READ mode 0666
+Apr 14 18:28:29 10.71.51.0 u85824642 close "/img/portafolio/screen03big.jpg" bytes read 168930 written 0
+Apr 14 18:28:29 10.71.51.0 u85824642 [10.71.51.0|get|0|168930|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30336269672e6a7067|]
+Apr 14 18:28:29 10.71.51.0 u85824642 open "/img/portafolio/screen02.jpg" flags READ mode 0666
+Apr 14 18:28:29 10.71.51.0 u85824642 close "/img/portafolio/screen02big.jpg" bytes read 117757 written 0
+Apr 14 18:28:29 10.71.51.0 u85824642 [10.71.51.0|get|0|117757|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30326269672e6a7067|]
+Apr 14 18:28:30 10.71.51.0 u85824642 close "/img/portafolio/screen02.jpg" bytes read 30343 written 0
+Apr 14 18:28:30 10.71.51.0 u85824642 [10.71.51.0|get|1|30343|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30322e6a7067|]
+Apr 14 18:28:30 10.71.51.0 u85824642 open "/img/portafolio/screen01big.jpg" flags READ mode 0666
+Apr 14 18:28:30 10.71.51.0 u85824642 open "/img/portafolio/screen01.jpg" flags READ mode 0666
+Apr 14 18:28:30 10.71.51.0 u85824642 close "/img/portafolio/screen01.jpg" bytes read 41090 written 0
+Apr 14 18:28:30 10.71.51.0 u85824642 [10.71.51.0|get|0|41090|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30312e6a7067|]
+Apr 14 18:28:30 10.71.51.0 u85824642 close "/img/portafolio/screen01big.jpg" bytes read 144119 written 0
+Apr 14 18:28:30 10.71.51.0 u85824642 [10.71.51.0|get|0|144119|0|0|0|2f696d672f706f727461666f6c696f2f73637265656e30316269672e6a7067|]
+Apr 14 18:28:30 10.71.51.0 u85824642 open "/img/software/ZBrush_oscuro.png" flags READ mode 0666
+Apr 14 18:28:30 10.71.51.0 u85824642 open "/img/software/ZBrush_blanco.png" flags READ mode 0666
+Apr 14 18:28:30 10.71.51.0 u85824642 close "/img/software/ZBrush_blanco.png" bytes read 26776 written 0
+Apr 14 18:28:30 10.71.51.0 u85824642 close "/img/software/ZBrush_oscuro.png" bytes read 28440 written 0
+Apr 14 18:28:30 10.71.51.0 u85824642 [10.71.51.0|get|0|26776|0|0|0|2f696d672f736f6674776172652f5a42727573685f626c616e636f2e706e67|]
+Apr 14 18:28:30 10.71.51.0 u85824642 [10.71.51.0|get|0|28440|0|0|0|2f696d672f736f6674776172652f5a42727573685f6f736375726f2e706e67|]
+Apr 14 18:28:30 10.71.51.0 u85824642 open "/img/software/WordPress_oscuro.png" flags READ mode 0666
+Apr 14 18:28:30 10.71.51.0 u85824642 open "/img/software/WordPress_blanco.png" flags READ mode 0666
+Apr 14 18:28:31 10.71.51.0 u85824642 close "/img/software/WordPress_oscuro.png" bytes read 138036 written 0
+Apr 14 18:28:31 10.71.51.0 u85824642 [10.71.51.0|get|1|138036|0|0|0|2f696d672f736f6674776172652f576f726450726573735f6f736375726f2e706e67|]
+Apr 14 18:28:31 10.71.51.0 u85824642 close "/img/software/WordPress_blanco.png" bytes read 133442 written 0
+Apr 14 18:28:31 10.71.51.0 u85824642 [10.71.51.0|get|1|133442|0|0|0|2f696d672f736f6674776172652f576f726450726573735f626c616e636f2e706e67|]
+Apr 14 18:28:31 10.71.51.0 u85824642 open "/img/software/riggins-oscuro.png" flags READ mode 0666
+Apr 14 18:28:31 10.71.51.0 u85824642 open "/img/software/riggins-blanco.png" flags READ mode 0666
+Apr 14 18:28:31 10.71.51.0 u85824642 close "/img/software/riggins-oscuro.png" bytes read 8805 written 0
+Apr 14 18:28:31 10.71.51.0 u85824642 [10.71.51.0|get|0|8805|0|0|0|2f696d672f736f6674776172652f72696767696e732d6f736375726f2e706e67|]
+Apr 14 18:28:31 10.71.51.0 u85824642 close "/img/software/riggins-blanco.png" bytes read 8559 written 0
+Apr 14 18:28:31 10.71.51.0 u85824642 [10.71.51.0|get|0|8559|0|0|0|2f696d672f736f6674776172652f72696767696e732d626c616e636f2e706e67|]
+Apr 14 18:28:31 10.71.51.0 u85824642 open "/img/software/premiere-oscuro.png" flags READ mode 0666
+Apr 14 18:28:31 10.71.51.0 u85824642 open "/img/software/premiere-blanco.png" flags READ mode 0666
+Apr 14 18:28:31 10.71.51.0 u85824642 close "/img/software/premiere-oscuro.png" bytes read 5946 written 0
+Apr 14 18:28:31 10.71.51.0 u85824642 [10.71.51.0|get|0|5946|0|0|0|2f696d672f736f6674776172652f7072656d696572652d6f736375726f2e706e67|]
+Apr 14 18:28:31 10.71.51.0 u85824642 close "/img/software/premiere-blanco.png" bytes read 5908 written 0
+Apr 14 18:28:31 10.71.51.0 u85824642 [10.71.51.0|get|0|5908|0|0|0|2f696d672f736f6674776172652f7072656d696572652d626c616e636f2e706e67|]
+Apr 14 18:28:31 10.71.51.0 u85824642 open "/img/software/Photoshop_oscuro.png" flags READ mode 0666
+Apr 14 18:28:31 10.71.51.0 u85824642 open "/img/software/Photoshop_blanco.png" flags READ mode 0666
+Apr 14 18:28:31 10.71.51.0 u85824642 close "/img/software/Photoshop_oscuro.png" bytes read 6124 written 0
+Apr 14 18:28:31 10.71.51.0 u85824642 [10.71.51.0|get|0|6124|0|0|0|2f696d672f736f6674776172652f50686f746f73686f705f6f736375726f2e706e67|]
+Apr 14 18:28:31 10.71.51.0 u85824642 close "/img/software/Photoshop_blanco.png" bytes read 6081 written 0
+Apr 14 18:28:31 10.71.51.0 u85824642 [10.71.51.0|get|0|6081|0|0|0|2f696d672f736f6674776172652f50686f746f73686f705f626c616e636f2e706e67|]
+Apr 14 18:28:31 10.71.51.0 u85824642 open "/img/software/netbeen-oscuro.png" flags READ mode 0666
+Apr 14 18:28:31 10.71.51.0 u85824642 open "/img/software/netbeen-blanco.png" flags READ mode 0666
+Apr 14 18:28:31 10.71.51.0 u85824642 close "/img/software/netbeen-oscuro.png" bytes read 5752 written 0
+Apr 14 18:28:31 10.71.51.0 u85824642 [10.71.51.0|get|0|5752|0|0|0|2f696d672f736f6674776172652f6e65746265656e2d6f736375726f2e706e67|]
+Apr 14 18:28:31 10.71.51.0 u85824642 close "/img/software/netbeen-blanco.png" bytes read 5496 written 0
+Apr 14 18:28:31 10.71.51.0 u85824642 [10.71.51.0|get|0|5496|0|0|0|2f696d672f736f6674776172652f6e65746265656e2d626c616e636f2e706e67|]
+Apr 14 18:28:32 10.71.51.0 u85824642 open "/img/software/maya-oscuro.png" flags READ mode 0666
+Apr 14 18:28:32 10.71.51.0 u85824642 open "/img/software/maya-blanco.png" flags READ mode 0666
+Apr 14 18:28:32 10.71.51.0 u85824642 close "/img/software/maya-oscuro.png" bytes read 10628 written 0
+Apr 14 18:28:32 10.71.51.0 u85824642 [10.71.51.0|get|0|10628|0|0|0|2f696d672f736f6674776172652f6d6179612d6f736375726f2e706e67|]
+Apr 14 18:28:32 10.71.51.0 u85824642 close "/img/software/maya-blanco.png" bytes read 10059 written 0
+Apr 14 18:28:32 10.71.51.0 u85824642 [10.71.51.0|get|0|10059|0|0|0|2f696d672f736f6674776172652f6d6179612d626c616e636f2e706e67|]
+Apr 14 18:28:32 10.71.51.0 u85824642 open "/img/software/ilustrator_blanco.png" flags READ mode 0666
+Apr 14 18:28:32 10.71.51.0 u85824642 open "/img/software/ilustrator_oscuro.png" flags READ mode 0666
+Apr 14 18:28:32 10.71.51.0 u85824642 close "/img/software/ilustrator_blanco.png" bytes read 7335 written 0
+Apr 14 18:28:32 10.71.51.0 u85824642 [10.71.51.0|get|0|7335|0|0|0|2f696d672f736f6674776172652f696c7573747261746f725f626c616e636f2e706e67|]
+Apr 14 18:28:32 10.71.51.0 u85824642 close "/img/software/ilustrator_oscuro.png" bytes read 7353 written 0
+Apr 14 18:28:32 10.71.51.0 u85824642 [10.71.51.0|get|0|7353|0|0|0|2f696d672f736f6674776172652f696c7573747261746f725f6f736375726f2e706e67|]
+Apr 14 18:28:32 10.71.51.0 u85824642 open "/img/software/id-blanco-.png" flags READ mode 0666
+Apr 14 18:28:32 10.71.51.0 u85824642 open "/img/software/id-oscuro-.png" flags READ mode 0666
+Apr 14 18:28:32 10.71.51.0 u85824642 close "/img/software/id-blanco-.png" bytes read 5736 written 0
+Apr 14 18:28:32 10.71.51.0 u85824642 [10.71.51.0|get|0|5736|0|0|0|2f696d672f736f6674776172652f69642d626c616e636f2d2e706e67|]
+Apr 14 18:28:32 10.71.51.0 u85824642 close "/img/software/id-oscuro-.png" bytes read 5772 written 0
+Apr 14 18:28:32 10.71.51.0 u85824642 [10.71.51.0|get|0|5772|0|0|0|2f696d672f736f6674776172652f69642d6f736375726f2d2e706e67|]
+Apr 14 18:28:32 10.71.51.0 u85824642 open "/img/software/icon_3d_oscuro.png" flags READ mode 0666
+Apr 14 18:28:32 10.71.51.0 u85824642 open "/img/software/icon_3d_blanco.png" flags READ mode 0666
+Apr 14 18:28:32 10.71.51.0 u85824642 close "/img/software/icon_3d_oscuro.png" bytes read 9372 written 0
+Apr 14 18:28:32 10.71.51.0 u85824642 [10.71.51.0|get|0|9372|0|0|0|2f696d672f736f6674776172652f69636f6e5f33645f6f736375726f2e706e67|]
+Apr 14 18:28:32 10.71.51.0 u85824642 close "/img/software/icon_3d_blanco.png" bytes read 8957 written 0
+Apr 14 18:28:32 10.71.51.0 u85824642 [10.71.51.0|get|0|8957|0|0|0|2f696d672f736f6674776172652f69636f6e5f33645f626c616e636f2e706e67|]
+Apr 14 18:28:32 10.71.51.0 u85824642 open "/img/software/corel_paiter_blanco.png" flags READ mode 0666
+Apr 14 18:28:32 10.71.51.0 u85824642 open "/img/software/corel_paiter_oscuro.png" flags READ mode 0666
+Apr 14 18:28:32 10.71.51.0 u85824642 close "/img/software/corel_paiter_blanco.png" bytes read 10138 written 0
+Apr 14 18:28:32 10.71.51.0 u85824642 [10.71.51.0|get|0|10138|0|0|0|2f696d672f736f6674776172652f636f72656c5f7061697465725f626c616e636f2e706e67|]
+Apr 14 18:28:32 10.71.51.0 u85824642 close "/img/software/corel_paiter_oscuro.png" bytes read 10080 written 0
+Apr 14 18:28:32 10.71.51.0 u85824642 [10.71.51.0|get|0|10080|0|0|0|2f696d672f736f6674776172652f636f72656c5f7061697465725f6f736375726f2e706e67|]
+Apr 14 18:28:33 10.71.51.0 u85824642 open "/img/software/aftereffect-blanco.png" flags READ mode 0666
+Apr 14 18:28:33 10.71.51.0 u85824642 open "/img/software/aftereffect-osuro.png" flags READ mode 0666
+Apr 14 18:28:33 10.71.51.0 u85824642 close "/img/software/aftereffect-blanco.png" bytes read 9052 written 0
+Apr 14 18:28:33 10.71.51.0 u85824642 [10.71.51.0|get|0|9052|0|0|0|2f696d672f736f6674776172652f61667465726566666563742d626c616e636f2e706e67|]
+Apr 14 18:28:33 10.71.51.0 u85824642 close "/img/software/aftereffect-osuro.png" bytes read 9089 written 0
+Apr 14 18:28:33 10.71.51.0 u85824642 [10.71.51.0|get|0|9089|0|0|0|2f696d672f736f6674776172652f61667465726566666563742d6f7375726f2e706e67|]
+Apr 14 18:28:33 10.71.51.0 u85824642 open "/img/servicios/web_oscuro.png" flags READ mode 0666
+Apr 14 18:28:33 10.71.51.0 u85824642 open "/img/servicios/web_blanco.png" flags READ mode 0666
+Apr 14 18:28:33 10.71.51.0 u85824642 close "/img/servicios/web_oscuro.png" bytes read 10372 written 0
+Apr 14 18:28:33 10.71.51.0 u85824642 [10.71.51.0|get|0|10372|0|0|0|2f696d672f736572766963696f732f7765625f6f736375726f2e706e67|]
+Apr 14 18:28:33 10.71.51.0 u85824642 close "/img/servicios/web_blanco.png" bytes read 10225 written 0
+Apr 14 18:28:33 10.71.51.0 u85824642 [10.71.51.0|get|0|10225|0|0|0|2f696d672f736572766963696f732f7765625f626c616e636f2e706e67|]
+Apr 14 18:28:33 10.71.51.0 u85824642 open "/img/servicios/modelado_oscuro.png" flags READ mode 0666
+Apr 14 18:28:33 10.71.51.0 u85824642 open "/img/servicios/modelado_blanco.png" flags READ mode 0666
+Apr 14 18:28:33 10.71.51.0 u85824642 close "/img/servicios/modelado_oscuro.png" bytes read 13775 written 0
+Apr 14 18:28:33 10.71.51.0 u85824642 [10.71.51.0|get|0|13775|0|0|0|2f696d672f736572766963696f732f6d6f64656c61646f5f6f736375726f2e706e67|]
+Apr 14 18:28:33 10.71.51.0 u85824642 close "/img/servicios/modelado_blanco.png" bytes read 13290 written 0
+Apr 14 18:28:33 10.71.51.0 u85824642 [10.71.51.0|get|0|13290|0|0|0|2f696d672f736572766963696f732f6d6f64656c61646f5f626c616e636f2e706e67|]
+Apr 14 18:28:33 10.71.51.0 u85824642 open "/img/servicios/ilustracion_blanco.png" flags READ mode 0666
+Apr 14 18:28:33 10.71.51.0 u85824642 open "/img/servicios/ilustracion_oscuro.png" flags READ mode 0666
+Apr 14 18:28:34 10.71.51.0 u85824642 close "/img/servicios/ilustracion_oscuro.png" bytes read 5480 written 0
+Apr 14 18:28:34 10.71.51.0 u85824642 [10.71.51.0|get|1|5480|0|0|0|2f696d672f736572766963696f732f696c757374726163696f6e5f6f736375726f2e706e67|]
+Apr 14 18:28:34 10.71.51.0 u85824642 close "/img/servicios/ilustracion_blanco.png" bytes read 5435 written 0
+Apr 14 18:28:34 10.71.51.0 u85824642 [10.71.51.0|get|1|5435|0|0|0|2f696d672f736572766963696f732f696c757374726163696f6e5f626c616e636f2e706e67|]
+Apr 14 18:28:34 10.71.51.0 u85824642 open "/img/servicios/grafico_oscuro.png" flags READ mode 0666
+Apr 14 18:28:34 10.71.51.0 u85824642 open "/img/servicios/grafico_blanco.png" flags READ mode 0666
+Apr 14 18:28:34 10.71.51.0 u85824642 close "/img/servicios/grafico_oscuro.png" bytes read 15964 written 0
+Apr 14 18:28:34 10.71.51.0 u85824642 [10.71.51.0|get|0|15964|0|0|0|2f696d672f736572766963696f732f6772616669636f5f6f736375726f2e706e67|]
+Apr 14 18:28:34 10.71.51.0 u85824642 close "/img/servicios/grafico_blanco.png" bytes read 15847 written 0
+Apr 14 18:28:34 10.71.51.0 u85824642 [10.71.51.0|get|0|15847|0|0|0|2f696d672f736572766963696f732f6772616669636f5f626c616e636f2e706e67|]
+Apr 14 18:28:34 10.71.51.0 u85824642 open "/js/lys.js" flags READ mode 0666
+Apr 14 18:28:34 10.71.51.0 u85824642 open "/lib/jQuery/jquery-2.1.1.min.js" flags READ mode 0666
+Apr 14 18:28:34 10.71.51.0 u85824642 close "/js/lys.js" bytes read 12158 written 0
+Apr 14 18:28:34 10.71.51.0 u85824642 [10.71.51.0|get|0|12158|0|0|0|2f6a732f6c79732e6a73|]
+Apr 14 18:28:34 10.71.51.0 u85824642 close "/lib/jQuery/jquery-2.1.1.min.js" bytes read 84245 written 0
+Apr 14 18:28:34 10.71.51.0 u85824642 [10.71.51.0|get|0|84245|0|0|0|2f6c69622f6a51756572792f6a71756572792d322e312e312e6d696e2e6a73|]
+Apr 14 18:28:34 10.71.51.0 u85824642 open "/lib/modernizr/jquery.shuffle.modernizr.js" flags READ mode 0666
+Apr 14 18:28:34 10.71.51.0 u85824642 open "/lib/FontAwesome/css/font-awesome.min.css" flags READ mode 0666
+Apr 14 18:28:34 10.71.51.0 u85824642 close "/lib/modernizr/jquery.shuffle.modernizr.js" bytes read 40878 written 0
+Apr 14 18:28:34 10.71.51.0 u85824642 [10.71.51.0|get|0|40878|0|0|0|2f6c69622f6d6f6465726e697a722f6a71756572792e73687566666c652e6d6f6465726e697a722e6a73|]
+Apr 14 18:28:35 10.71.51.0 u85824642 close "/lib/FontAwesome/css/font-awesome.min.css" bytes read 29063 written 0
+Apr 14 18:28:35 10.71.51.0 u85824642 [10.71.51.0|get|1|29063|0|0|0|2f6c69622f466f6e74417765736f6d652f6373732f666f6e742d617765736f6d652e6d696e2e637373|]
+Apr 14 18:28:35 10.71.51.0 u85824642 open "/lib/FontAwesome/fonts/FontAwesome.otf" flags READ mode 0666
+Apr 14 18:28:35 10.71.51.0 u85824642 open "/lib/FontAwesome/fonts/fontawesome-webfont.woff2" flags READ mode 0666
+Apr 14 18:28:35 10.71.51.0 u85824642 close "/lib/FontAwesome/fonts/fontawesome-webfont.woff2" bytes read 71896 written 0
+Apr 14 18:28:35 10.71.51.0 u85824642 [10.71.51.0|get|0|71896|0|0|0|2f6c69622f466f6e74417765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f666632|]
+Apr 14 18:28:35 10.71.51.0 u85824642 close "/lib/FontAwesome/fonts/FontAwesome.otf" bytes read 124988 written 0
+Apr 14 18:28:35 10.71.51.0 u85824642 [10.71.51.0|get|0|124988|0|0|0|2f6c69622f466f6e74417765736f6d652f666f6e74732f466f6e74417765736f6d652e6f7466|]
+Apr 14 18:28:35 10.71.51.0 u85824642 open "/lib/FontAwesome/fonts/fontawesome-webfont.woff" flags READ mode 0666
+Apr 14 18:28:35 10.71.51.0 u85824642 open "/lib/FontAwesome/fonts/fontawesome-webfont.ttf" flags READ mode 0666
+Apr 14 18:28:35 10.71.51.0 u85824642 close "/lib/FontAwesome/fonts/fontawesome-webfont.woff" bytes read 90412 written 0
+Apr 14 18:28:35 10.71.51.0 u85824642 [10.71.51.0|get|0|90412|0|0|0|2f6c69622f466f6e74417765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f6666|]
+Apr 14 18:28:36 10.71.51.0 u85824642 close "/lib/FontAwesome/fonts/fontawesome-webfont.ttf" bytes read 152796 written 0
+Apr 14 18:28:36 10.71.51.0 u85824642 [10.71.51.0|get|1|152796|0|0|0|2f6c69622f466f6e74417765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e747466|]
+Apr 14 18:28:36 10.71.51.0 u85824642 open "/lib/FontAwesome/fonts/fontawesome-webfont.svg" flags READ mode 0666
+Apr 14 18:28:36 10.71.51.0 u85824642 open "/lib/FontAwesome/fonts/fontawesome-webfont.eot" flags READ mode 0666
+Apr 14 18:28:36 10.71.51.0 u85824642 close "/lib/FontAwesome/fonts/fontawesome-webfont.eot" bytes read 76518 written 0
+Apr 14 18:28:36 10.71.51.0 u85824642 [10.71.51.0|get|0|76518|0|0|0|2f6c69622f466f6e74417765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e656f74|]
+Apr 14 18:28:36 10.71.51.0 u85824642 open "/lib/layerslider/css/layerslider.css" flags READ mode 0666
+Apr 14 18:28:36 10.71.51.0 u85824642 close "/lib/FontAwesome/fonts/fontawesome-webfont.svg" bytes read 391622 written 0
+Apr 14 18:28:36 10.71.51.0 u85824642 [10.71.51.0|get|0|391622|0|0|0|2f6c69622f466f6e74417765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e737667|]
+Apr 14 18:28:36 10.71.51.0 u85824642 close "/lib/layerslider/css/layerslider.css" bytes read 15594 written 0
+Apr 14 18:28:36 10.71.51.0 u85824642 [10.71.51.0|get|0|15594|0|0|0|2f6c69622f6c61796572736c696465722f6373732f6c61796572736c696465722e637373|]
+Apr 14 18:28:36 10.71.51.0 u85824642 open "/lib/layerslider/css/blank.gif" flags READ mode 0666
+Apr 14 18:28:36 10.71.51.0 u85824642 close "/lib/layerslider/css/blank.gif" bytes read 49 written 0
+Apr 14 18:28:36 10.71.51.0 u85824642 [10.71.51.0|get|0|49|0|0|0|2f6c69622f6c61796572736c696465722f6373732f626c616e6b2e676966|]
+Apr 14 18:28:36 10.71.51.0 u85824642 open "/lib/layerslider/js/layerslider.transitions.js" flags READ mode 0666
+Apr 14 18:28:37 10.71.51.0 u85824642 open "/lib/layerslider/js/layerslider.kreaturamedia.jquery.js" flags READ mode 0666
+Apr 14 18:28:38 10.71.51.0 u85824642 close "/lib/layerslider/js/layerslider.kreaturamedia.jquery.js" bytes read 57000 written 0
+Apr 14 18:28:38 10.71.51.0 u85824642 [10.71.51.0|get|1|57000|0|0|0|2f6c69622f6c61796572736c696465722f6a732f6c61796572736c696465722e6b726561747572616d656469612e6a71756572792e6a73|]
+Apr 14 18:28:38 10.71.51.0 u85824642 open "/lib/layerslider/js/jquery.js" flags READ mode 0666
+Apr 14 18:28:38 10.71.51.0 u85824642 close "/lib/layerslider/js/layerslider.transitions.js" bytes read 21095 written 0
+Apr 14 18:28:38 10.71.51.0 u85824642 [10.71.51.0|get|2|21095|0|0|0|2f6c69622f6c61796572736c696465722f6a732f6c61796572736c696465722e7472616e736974696f6e732e6a73|]
+Apr 14 18:28:38 10.71.51.0 u85824642 open "/lib/layerslider/js/greensock.js" flags READ mode 0666
+Apr 14 18:28:38 10.71.51.0 u85824642 close "/lib/layerslider/js/jquery.js" bytes read 93025 written 0
+Apr 14 18:28:38 10.71.51.0 u85824642 [10.71.51.0|get|0|93025|0|0|0|2f6c69622f6c61796572736c696465722f6a732f6a71756572792e6a73|]
+Apr 14 18:28:38 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlessdark/skin.png" flags READ mode 0666
+Apr 14 18:28:38 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlessdark/skin.png" bytes read 12077 written 0
+Apr 14 18:28:38 10.71.51.0 u85824642 [10.71.51.0|get|0|12077|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736461726b2f736b696e2e706e67|]
+Apr 14 18:28:38 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlessdark/skin.css" flags READ mode 0666
+Apr 14 18:28:39 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlessdark/skin.css" bytes read 4150 written 0
+Apr 14 18:28:39 10.71.51.0 u85824642 [10.71.51.0|get|1|4150|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736461726b2f736b696e2e637373|]
+Apr 14 18:28:39 10.71.51.0 u85824642 close "/lib/layerslider/js/greensock.js" bytes read 52295 written 0
+Apr 14 18:28:39 10.71.51.0 u85824642 [10.71.51.0|get|1|52295|0|0|0|2f6c69622f6c61796572736c696465722f6a732f677265656e736f636b2e6a73|]
+Apr 14 18:28:39 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlessdark/shadow.png" flags READ mode 0666
+Apr 14 18:28:39 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlessdark/shadow.png" bytes read 11041 written 0
+Apr 14 18:28:39 10.71.51.0 u85824642 [10.71.51.0|get|0|11041|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736461726b2f736861646f772e706e67|]
+Apr 14 18:28:39 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlessdark/nothumb.png" flags READ mode 0666
+Apr 14 18:28:39 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlessdark/loading.gif" flags READ mode 0666
+Apr 14 18:28:39 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlessdark/loading.gif" bytes read 5404 written 0
+Apr 14 18:28:39 10.71.51.0 u85824642 [10.71.51.0|get|0|5404|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736461726b2f6c6f6164696e672e676966|]
+Apr 14 18:28:39 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlessdark/nothumb.png" bytes read 3412 written 0
+Apr 14 18:28:39 10.71.51.0 u85824642 [10.71.51.0|get|0|3412|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736461726b2f6e6f7468756d622e706e67|]
+Apr 14 18:28:39 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlessdark3d/skin.png" flags READ mode 0666
+Apr 14 18:28:39 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlessdark3d/skin.css" flags READ mode 0666
+Apr 14 18:28:39 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlessdark3d/skin.png" bytes read 9760 written 0
+Apr 14 18:28:39 10.71.51.0 u85824642 [10.71.51.0|get|0|9760|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736461726b33642f736b696e2e706e67|]
+Apr 14 18:28:39 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlessdark3d/skin.css" bytes read 4486 written 0
+Apr 14 18:28:39 10.71.51.0 u85824642 [10.71.51.0|get|0|4486|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736461726b33642f736b696e2e637373|]
+Apr 14 18:28:40 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlessdark3d/shadow.png" flags READ mode 0666
+Apr 14 18:28:40 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlessdark3d/nothumb.png" flags READ mode 0666
+Apr 14 18:28:40 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlessdark3d/shadow.png" bytes read 8242 written 0
+Apr 14 18:28:40 10.71.51.0 u85824642 [10.71.51.0|get|0|8242|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736461726b33642f736861646f772e706e67|]
+Apr 14 18:28:40 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlessdark3d/nothumb.png" bytes read 5046 written 0
+Apr 14 18:28:40 10.71.51.0 u85824642 [10.71.51.0|get|0|5046|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736461726b33642f6e6f7468756d622e706e67|]
+Apr 14 18:28:40 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlessdark3d/loading.gif" flags READ mode 0666
+Apr 14 18:28:40 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlessdark3d/loading.gif" bytes read 6096 written 0
+Apr 14 18:28:40 10.71.51.0 u85824642 [10.71.51.0|get|0|6096|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736461726b33642f6c6f6164696e672e676966|]
+Apr 14 18:28:40 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlesslight/skin.png" flags READ mode 0666
+Apr 14 18:28:40 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlesslight/skin.png" bytes read 12328 written 0
+Apr 14 18:28:40 10.71.51.0 u85824642 [10.71.51.0|get|0|12328|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736c696768742f736b696e2e706e67|]
+Apr 14 18:28:40 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlesslight/skin.css" flags READ mode 0666
+Apr 14 18:28:40 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlesslight/shadow.png" flags READ mode 0666
+Apr 14 18:28:40 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlesslight/skin.css" bytes read 4090 written 0
+Apr 14 18:28:40 10.71.51.0 u85824642 [10.71.51.0|get|0|4090|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736c696768742f736b696e2e637373|]
+Apr 14 18:28:40 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlesslight/shadow.png" bytes read 11041 written 0
+Apr 14 18:28:40 10.71.51.0 u85824642 [10.71.51.0|get|0|11041|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736c696768742f736861646f772e706e67|]
+Apr 14 18:28:40 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlesslight/nothumb.png" flags READ mode 0666
+Apr 14 18:28:40 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlesslight/loading.gif" flags READ mode 0666
+Apr 14 18:28:40 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlesslight/nothumb.png" bytes read 5046 written 0
+Apr 14 18:28:40 10.71.51.0 u85824642 [10.71.51.0|get|0|5046|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736c696768742f6e6f7468756d622e706e67|]
+Apr 14 18:28:40 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlesslight/loading.gif" bytes read 4212 written 0
+Apr 14 18:28:40 10.71.51.0 u85824642 [10.71.51.0|get|0|4212|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736c696768742f6c6f6164696e672e676966|]
+Apr 14 18:28:41 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlesslight3d/skin.png" flags READ mode 0666
+Apr 14 18:28:41 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlesslight3d/skin.css" flags READ mode 0666
+Apr 14 18:28:41 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlesslight3d/skin.png" bytes read 9243 written 0
+Apr 14 18:28:41 10.71.51.0 u85824642 [10.71.51.0|get|0|9243|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736c6967687433642f736b696e2e706e67|]
+Apr 14 18:28:41 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlesslight3d/skin.css" bytes read 4432 written 0
+Apr 14 18:28:41 10.71.51.0 u85824642 [10.71.51.0|get|0|4432|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736c6967687433642f736b696e2e637373|]
+Apr 14 18:28:41 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlesslight3d/shadow.png" flags READ mode 0666
+Apr 14 18:28:41 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlesslight3d/nothumb.png" flags READ mode 0666
+Apr 14 18:28:41 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlesslight3d/nothumb.png" bytes read 5046 written 0
+Apr 14 18:28:41 10.71.51.0 u85824642 [10.71.51.0|get|0|5046|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736c6967687433642f6e6f7468756d622e706e67|]
+Apr 14 18:28:41 10.71.51.0 u85824642 open "/lib/layerslider/skins/borderlesslight3d/loading.gif" flags READ mode 0666
+Apr 14 18:28:42 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlesslight3d/loading.gif" bytes read 4212 written 0
+Apr 14 18:28:42 10.71.51.0 u85824642 [10.71.51.0|get|1|4212|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736c6967687433642f6c6f6164696e672e676966|]
+Apr 14 18:28:42 10.71.51.0 u85824642 close "/lib/layerslider/skins/borderlesslight3d/shadow.png" bytes read 8242 written 0
+Apr 14 18:28:42 10.71.51.0 u85824642 [10.71.51.0|get|1|8242|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f626f726465726c6573736c6967687433642f736861646f772e706e67|]
+Apr 14 18:28:42 10.71.51.0 u85824642 open "/lib/layerslider/skins/carousel/skin.png" flags READ mode 0666
+Apr 14 18:28:42 10.71.51.0 u85824642 open "/lib/layerslider/skins/carousel/skin.css" flags READ mode 0666
+Apr 14 18:28:42 10.71.51.0 u85824642 close "/lib/layerslider/skins/carousel/skin.css" bytes read 3655 written 0
+Apr 14 18:28:42 10.71.51.0 u85824642 [10.71.51.0|get|0|3655|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6361726f7573656c2f736b696e2e637373|]
+Apr 14 18:28:42 10.71.51.0 u85824642 open "/lib/layerslider/skins/carousel/nothumb.png" flags READ mode 0666
+Apr 14 18:28:42 10.71.51.0 u85824642 close "/lib/layerslider/skins/carousel/skin.png" bytes read 12747 written 0
+Apr 14 18:28:42 10.71.51.0 u85824642 [10.71.51.0|get|0|12747|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6361726f7573656c2f736b696e2e706e67|]
+Apr 14 18:28:43 10.71.51.0 u85824642 close "/lib/layerslider/skins/carousel/nothumb.png" bytes read 5046 written 0
+Apr 14 18:28:43 10.71.51.0 u85824642 [10.71.51.0|get|1|5046|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6361726f7573656c2f6e6f7468756d622e706e67|]
+Apr 14 18:28:43 10.71.51.0 u85824642 open "/lib/layerslider/skins/carousel/loading.gif" flags READ mode 0666
+Apr 14 18:28:43 10.71.51.0 u85824642 close "/lib/layerslider/skins/carousel/loading.gif" bytes read 4212 written 0
+Apr 14 18:28:43 10.71.51.0 u85824642 [10.71.51.0|get|0|4212|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6361726f7573656c2f6c6f6164696e672e676966|]
+Apr 14 18:28:43 10.71.51.0 u85824642 open "/lib/layerslider/skins/darkskin/skin.png" flags READ mode 0666
+Apr 14 18:28:43 10.71.51.0 u85824642 close "/lib/layerslider/skins/darkskin/skin.png" bytes read 12000 written 0
+Apr 14 18:28:43 10.71.51.0 u85824642 [10.71.51.0|get|0|12000|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6461726b736b696e2f736b696e2e706e67|]
+Apr 14 18:28:43 10.71.51.0 u85824642 open "/lib/layerslider/skins/darkskin/skin.css" flags READ mode 0666
+Apr 14 18:28:43 10.71.51.0 u85824642 open "/lib/layerslider/skins/darkskin/nothumb.png" flags READ mode 0666
+Apr 14 18:28:43 10.71.51.0 u85824642 close "/lib/layerslider/skins/darkskin/skin.css" bytes read 4226 written 0
+Apr 14 18:28:43 10.71.51.0 u85824642 [10.71.51.0|get|0|4226|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6461726b736b696e2f736b696e2e637373|]
+Apr 14 18:28:43 10.71.51.0 u85824642 open "/lib/layerslider/skins/darkskin/loading.gif" flags READ mode 0666
+Apr 14 18:28:43 10.71.51.0 u85824642 close "/lib/layerslider/skins/darkskin/nothumb.png" bytes read 3412 written 0
+Apr 14 18:28:43 10.71.51.0 u85824642 [10.71.51.0|get|0|3412|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6461726b736b696e2f6e6f7468756d622e706e67|]
+Apr 14 18:28:43 10.71.51.0 u85824642 close "/lib/layerslider/skins/darkskin/loading.gif" bytes read 6096 written 0
+Apr 14 18:28:43 10.71.51.0 u85824642 [10.71.51.0|get|0|6096|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6461726b736b696e2f6c6f6164696e672e676966|]
+Apr 14 18:28:43 10.71.51.0 u85824642 open "/lib/layerslider/skins/defaultskin/skin.png" flags READ mode 0666
+Apr 14 18:28:43 10.71.51.0 u85824642 open "/lib/layerslider/skins/defaultskin/skin.css" flags READ mode 0666
+Apr 14 18:28:43 10.71.51.0 u85824642 close "/lib/layerslider/skins/defaultskin/skin.png" bytes read 7994 written 0
+Apr 14 18:28:43 10.71.51.0 u85824642 [10.71.51.0|get|0|7994|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f64656661756c74736b696e2f736b696e2e706e67|]
+Apr 14 18:28:43 10.71.51.0 u85824642 close "/lib/layerslider/skins/defaultskin/skin.css" bytes read 4141 written 0
+Apr 14 18:28:43 10.71.51.0 u85824642 [10.71.51.0|get|0|4141|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f64656661756c74736b696e2f736b696e2e637373|]
+Apr 14 18:28:44 10.71.51.0 u85824642 open "/lib/layerslider/skins/defaultskin/nothumb.png" flags READ mode 0666
+Apr 14 18:28:44 10.71.51.0 u85824642 open "/lib/layerslider/skins/defaultskin/loading.gif" flags READ mode 0666
+Apr 14 18:28:44 10.71.51.0 u85824642 close "/lib/layerslider/skins/defaultskin/nothumb.png" bytes read 5046 written 0
+Apr 14 18:28:44 10.71.51.0 u85824642 [10.71.51.0|get|0|5046|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f64656661756c74736b696e2f6e6f7468756d622e706e67|]
+Apr 14 18:28:44 10.71.51.0 u85824642 close "/lib/layerslider/skins/defaultskin/loading.gif" bytes read 4406 written 0
+Apr 14 18:28:44 10.71.51.0 u85824642 [10.71.51.0|get|0|4406|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f64656661756c74736b696e2f6c6f6164696e672e676966|]
+Apr 14 18:28:44 10.71.51.0 u85824642 open "/lib/layerslider/skins/fullwidth/skin.png" flags READ mode 0666
+Apr 14 18:28:44 10.71.51.0 u85824642 open "/lib/layerslider/skins/fullwidth/skin.css" flags READ mode 0666
+Apr 14 18:28:44 10.71.51.0 u85824642 close "/lib/layerslider/skins/fullwidth/skin.png" bytes read 9243 written 0
+Apr 14 18:28:44 10.71.51.0 u85824642 [10.71.51.0|get|0|9243|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f66756c6c77696474682f736b696e2e706e67|]
+Apr 14 18:28:44 10.71.51.0 u85824642 close "/lib/layerslider/skins/fullwidth/skin.css" bytes read 3581 written 0
+Apr 14 18:28:44 10.71.51.0 u85824642 [10.71.51.0|get|0|3581|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f66756c6c77696474682f736b696e2e637373|]
+Apr 14 18:28:44 10.71.51.0 u85824642 open "/lib/layerslider/skins/fullwidth/nothumb.png" flags READ mode 0666
+Apr 14 18:28:44 10.71.51.0 u85824642 open "/lib/layerslider/skins/fullwidth/loading.gif" flags READ mode 0666
+Apr 14 18:28:44 10.71.51.0 u85824642 close "/lib/layerslider/skins/fullwidth/nothumb.png" bytes read 5046 written 0
+Apr 14 18:28:44 10.71.51.0 u85824642 [10.71.51.0|get|0|5046|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f66756c6c77696474682f6e6f7468756d622e706e67|]
+Apr 14 18:28:44 10.71.51.0 u85824642 close "/lib/layerslider/skins/fullwidth/loading.gif" bytes read 4406 written 0
+Apr 14 18:28:44 10.71.51.0 u85824642 [10.71.51.0|get|0|4406|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f66756c6c77696474682f6c6f6164696e672e676966|]
+Apr 14 18:28:44 10.71.51.0 u85824642 open "/lib/layerslider/skins/fullwidthdark/skin.png" flags READ mode 0666
+Apr 14 18:28:44 10.71.51.0 u85824642 open "/lib/layerslider/skins/fullwidthdark/skin.css" flags READ mode 0666
+Apr 14 18:28:45 10.71.51.0 u85824642 close "/lib/layerslider/skins/fullwidthdark/skin.png" bytes read 9427 written 0
+Apr 14 18:28:45 10.71.51.0 u85824642 [10.71.51.0|get|1|9427|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f66756c6c77696474686461726b2f736b696e2e706e67|]
+Apr 14 18:28:45 10.71.51.0 u85824642 close "/lib/layerslider/skins/fullwidthdark/skin.css" bytes read 3941 written 0
+Apr 14 18:28:45 10.71.51.0 u85824642 [10.71.51.0|get|1|3941|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f66756c6c77696474686461726b2f736b696e2e637373|]
+Apr 14 18:28:45 10.71.51.0 u85824642 open "/lib/layerslider/skins/fullwidthdark/nothumb.png" flags READ mode 0666
+Apr 14 18:28:45 10.71.51.0 u85824642 open "/lib/layerslider/skins/fullwidthdark/loading.gif" flags READ mode 0666
+Apr 14 18:28:45 10.71.51.0 u85824642 close "/lib/layerslider/skins/fullwidthdark/loading.gif" bytes read 6096 written 0
+Apr 14 18:28:45 10.71.51.0 u85824642 [10.71.51.0|get|0|6096|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f66756c6c77696474686461726b2f6c6f6164696e672e676966|]
+Apr 14 18:28:45 10.71.51.0 u85824642 close "/lib/layerslider/skins/fullwidthdark/nothumb.png" bytes read 5046 written 0
+Apr 14 18:28:45 10.71.51.0 u85824642 [10.71.51.0|get|0|5046|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f66756c6c77696474686461726b2f6e6f7468756d622e706e67|]
+Apr 14 18:28:45 10.71.51.0 u85824642 open "/lib/layerslider/skins/glass/skin.png" flags READ mode 0666
+Apr 14 18:28:45 10.71.51.0 u85824642 open "/lib/layerslider/skins/glass/skin.css" flags READ mode 0666
+Apr 14 18:28:45 10.71.51.0 u85824642 close "/lib/layerslider/skins/glass/skin.png" bytes read 11899 written 0
+Apr 14 18:28:45 10.71.51.0 u85824642 [10.71.51.0|get|0|11899|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f676c6173732f736b696e2e706e67|]
+Apr 14 18:28:45 10.71.51.0 u85824642 close "/lib/layerslider/skins/glass/skin.css" bytes read 3630 written 0
+Apr 14 18:28:45 10.71.51.0 u85824642 [10.71.51.0|get|0|3630|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f676c6173732f736b696e2e637373|]
+Apr 14 18:28:45 10.71.51.0 u85824642 open "/lib/layerslider/skins/glass/shadow.png" flags READ mode 0666
+Apr 14 18:28:45 10.71.51.0 u85824642 open "/lib/layerslider/skins/glass/nothumb.png" flags READ mode 0666
+Apr 14 18:28:45 10.71.51.0 u85824642 close "/lib/layerslider/skins/glass/shadow.png" bytes read 7511 written 0
+Apr 14 18:28:45 10.71.51.0 u85824642 [10.71.51.0|get|0|7511|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f676c6173732f736861646f772e706e67|]
+Apr 14 18:28:45 10.71.51.0 u85824642 close "/lib/layerslider/skins/glass/nothumb.png" bytes read 5046 written 0
+Apr 14 18:28:45 10.71.51.0 u85824642 [10.71.51.0|get|0|5046|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f676c6173732f6e6f7468756d622e706e67|]
+Apr 14 18:28:45 10.71.51.0 u85824642 open "/lib/layerslider/skins/glass/loading.gif" flags READ mode 0666
+Apr 14 18:28:46 10.71.51.0 u85824642 close "/lib/layerslider/skins/glass/loading.gif" bytes read 4406 written 0
+Apr 14 18:28:46 10.71.51.0 u85824642 [10.71.51.0|get|1|4406|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f676c6173732f6c6f6164696e672e676966|]
+Apr 14 18:28:46 10.71.51.0 u85824642 open "/lib/layerslider/skins/lightskin/skin.png" flags READ mode 0666
+Apr 14 18:28:46 10.71.51.0 u85824642 close "/lib/layerslider/skins/lightskin/skin.png" bytes read 11777 written 0
+Apr 14 18:28:46 10.71.51.0 u85824642 [10.71.51.0|get|0|11777|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6c69676874736b696e2f736b696e2e706e67|]
+Apr 14 18:28:46 10.71.51.0 u85824642 open "/lib/layerslider/skins/lightskin/skin.css" flags READ mode 0666
+Apr 14 18:28:46 10.71.51.0 u85824642 open "/lib/layerslider/skins/lightskin/nothumb.png" flags READ mode 0666
+Apr 14 18:28:46 10.71.51.0 u85824642 close "/lib/layerslider/skins/lightskin/skin.css" bytes read 4204 written 0
+Apr 14 18:28:46 10.71.51.0 u85824642 [10.71.51.0|get|0|4204|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6c69676874736b696e2f736b696e2e637373|]
+Apr 14 18:28:46 10.71.51.0 u85824642 close "/lib/layerslider/skins/lightskin/nothumb.png" bytes read 5046 written 0
+Apr 14 18:28:46 10.71.51.0 u85824642 [10.71.51.0|get|0|5046|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6c69676874736b696e2f6e6f7468756d622e706e67|]
+Apr 14 18:28:46 10.71.51.0 u85824642 open "/lib/layerslider/skins/lightskin/loading.gif" flags READ mode 0666
+Apr 14 18:28:46 10.71.51.0 u85824642 close "/lib/layerslider/skins/lightskin/loading.gif" bytes read 4406 written 0
+Apr 14 18:28:46 10.71.51.0 u85824642 [10.71.51.0|get|0|4406|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6c69676874736b696e2f6c6f6164696e672e676966|]
+Apr 14 18:28:46 10.71.51.0 u85824642 open "/lib/layerslider/skins/minimal/skin.png" flags READ mode 0666
+Apr 14 18:28:46 10.71.51.0 u85824642 close "/lib/layerslider/skins/minimal/skin.png" bytes read 4913 written 0
+Apr 14 18:28:46 10.71.51.0 u85824642 [10.71.51.0|get|0|4913|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6d696e696d616c2f736b696e2e706e67|]
+Apr 14 18:28:46 10.71.51.0 u85824642 open "/lib/layerslider/skins/minimal/skin.css" flags READ mode 0666
+Apr 14 18:28:46 10.71.51.0 u85824642 open "/lib/layerslider/skins/minimal/nothumb.png" flags READ mode 0666
+Apr 14 18:28:46 10.71.51.0 u85824642 close "/lib/layerslider/skins/minimal/skin.css" bytes read 3662 written 0
+Apr 14 18:28:46 10.71.51.0 u85824642 [10.71.51.0|get|0|3662|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6d696e696d616c2f736b696e2e637373|]
+Apr 14 18:28:46 10.71.51.0 u85824642 close "/lib/layerslider/skins/minimal/nothumb.png" bytes read 5046 written 0
+Apr 14 18:28:46 10.71.51.0 u85824642 [10.71.51.0|get|0|5046|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6d696e696d616c2f6e6f7468756d622e706e67|]
+Apr 14 18:28:46 10.71.51.0 u85824642 open "/lib/layerslider/skins/minimal/loading.gif" flags READ mode 0666
+Apr 14 18:28:47 10.71.51.0 u85824642 open "/lib/layerslider/skins/noskin/skin.png" flags READ mode 0666
+Apr 14 18:28:47 10.71.51.0 u85824642 close "/lib/layerslider/skins/minimal/loading.gif" bytes read 4406 written 0
+Apr 14 18:28:47 10.71.51.0 u85824642 [10.71.51.0|get|1|4406|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6d696e696d616c2f6c6f6164696e672e676966|]
+Apr 14 18:28:47 10.71.51.0 u85824642 close "/lib/layerslider/skins/noskin/skin.png" bytes read 1906 written 0
+Apr 14 18:28:47 10.71.51.0 u85824642 [10.71.51.0|get|0|1906|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6e6f736b696e2f736b696e2e706e67|]
+Apr 14 18:28:47 10.71.51.0 u85824642 open "/lib/layerslider/skins/noskin/skin.css" flags READ mode 0666
+Apr 14 18:28:47 10.71.51.0 u85824642 open "/lib/layerslider/skins/noskin/nothumb.png" flags READ mode 0666
+Apr 14 18:28:47 10.71.51.0 u85824642 close "/lib/layerslider/skins/noskin/skin.css" bytes read 1051 written 0
+Apr 14 18:28:47 10.71.51.0 u85824642 [10.71.51.0|get|0|1051|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6e6f736b696e2f736b696e2e637373|]
+Apr 14 18:28:47 10.71.51.0 u85824642 close "/lib/layerslider/skins/noskin/nothumb.png" bytes read 5046 written 0
+Apr 14 18:28:47 10.71.51.0 u85824642 [10.71.51.0|get|0|5046|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6e6f736b696e2f6e6f7468756d622e706e67|]
+Apr 14 18:28:47 10.71.51.0 u85824642 open "/lib/layerslider/skins/noskin/loading.gif" flags READ mode 0666
+Apr 14 18:28:47 10.71.51.0 u85824642 open "/lib/layerslider/skins/v5/skin.png" flags READ mode 0666
+Apr 14 18:28:47 10.71.51.0 u85824642 close "/lib/layerslider/skins/noskin/loading.gif" bytes read 4406 written 0
+Apr 14 18:28:47 10.71.51.0 u85824642 [10.71.51.0|get|0|4406|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f6e6f736b696e2f6c6f6164696e672e676966|]
+Apr 14 18:28:47 10.71.51.0 u85824642 close "/lib/layerslider/skins/v5/skin.png" bytes read 7497 written 0
+Apr 14 18:28:47 10.71.51.0 u85824642 [10.71.51.0|get|0|7497|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f76352f736b696e2e706e67|]
+Apr 14 18:28:47 10.71.51.0 u85824642 open "/lib/layerslider/skins/v5/nothumb.png" flags READ mode 0666
+Apr 14 18:28:47 10.71.51.0 u85824642 open "/lib/layerslider/skins/v5/skin.css" flags READ mode 0666
+Apr 14 18:28:48 10.71.51.0 u85824642 close "/lib/layerslider/skins/v5/nothumb.png" bytes read 5046 written 0
+Apr 14 18:28:48 10.71.51.0 u85824642 [10.71.51.0|get|1|5046|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f76352f6e6f7468756d622e706e67|]
+Apr 14 18:28:48 10.71.51.0 u85824642 close "/lib/layerslider/skins/v5/skin.css" bytes read 3146 written 0
+Apr 14 18:28:48 10.71.51.0 u85824642 [10.71.51.0|get|1|3146|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f76352f736b696e2e637373|]
+Apr 14 18:28:48 10.71.51.0 u85824642 open "/lib/layerslider/skins/v5/loading.gif" flags READ mode 0666
+Apr 14 18:28:48 10.71.51.0 u85824642 close "/lib/layerslider/skins/v5/loading.gif" bytes read 4406 written 0
+Apr 14 18:28:48 10.71.51.0 u85824642 [10.71.51.0|get|0|4406|0|0|0|2f6c69622f6c61796572736c696465722f736b696e732f76352f6c6f6164696e672e676966|]
+Apr 14 18:28:48 10.71.51.0 u85824642 open "/lib/Lightbox/2.7.1/lightbox.min.js" flags READ mode 0666
+Apr 14 18:28:48 10.71.51.0 u85824642 close "/lib/Lightbox/2.7.1/lightbox.min.js" bytes read 7800 written 0
+Apr 14 18:28:48 10.71.51.0 u85824642 [10.71.51.0|get|0|7800|0|0|0|2f6c69622f4c69676874626f782f322e372e312f6c69676874626f782e6d696e2e6a73|]
+Apr 14 18:28:48 10.71.51.0 u85824642 open "/lib/Lightbox/2.7.1/lightbox.min.css" flags READ mode 0666
+Apr 14 18:28:48 10.71.51.0 u85824642 close "/lib/Lightbox/2.7.1/lightbox.min.css" bytes read 2930 written 0
+Apr 14 18:28:48 10.71.51.0 u85824642 [10.71.51.0|get|0|2930|0|0|0|2f6c69622f4c69676874626f782f322e372e312f6c69676874626f782e6d696e2e637373|]
+Apr 14 18:28:48 10.71.51.0 u85824642 open "/lib/Lightbox/img/prev.png" flags READ mode 0666
+Apr 14 18:28:48 10.71.51.0 u85824642 close "/lib/Lightbox/img/prev.png" bytes read 1360 written 0
+Apr 14 18:28:48 10.71.51.0 u85824642 [10.71.51.0|get|0|1360|0|0|0|2f6c69622f4c69676874626f782f696d672f707265762e706e67|]
+Apr 14 18:28:48 10.71.51.0 u85824642 open "/lib/Lightbox/img/next.png" flags READ mode 0666
+Apr 14 18:28:48 10.71.51.0 u85824642 open "/lib/Lightbox/img/loading.gif" flags READ mode 0666
+Apr 14 18:28:48 10.71.51.0 u85824642 close "/lib/Lightbox/img/next.png" bytes read 1350 written 0
+Apr 14 18:28:48 10.71.51.0 u85824642 [10.71.51.0|get|0|1350|0|0|0|2f6c69622f4c69676874626f782f696d672f6e6578742e706e67|]
+Apr 14 18:28:48 10.71.51.0 u85824642 close "/lib/Lightbox/img/loading.gif" bytes read 8476 written 0
+Apr 14 18:28:48 10.71.51.0 u85824642 [10.71.51.0|get|0|8476|0|0|0|2f6c69622f4c69676874626f782f696d672f6c6f6164696e672e676966|]
+Apr 14 18:28:48 10.71.51.0 u85824642 open "/lib/Lightbox/img/close.png" flags READ mode 0666
+Apr 14 18:28:49 10.71.51.0 u85824642 close "/lib/Lightbox/img/close.png" bytes read 280 written 0
+Apr 14 18:28:49 10.71.51.0 u85824642 [10.71.51.0|get|1|280|0|0|0|2f6c69622f4c69676874626f782f696d672f636c6f73652e706e67|]
+Apr 14 18:28:49 10.71.51.0 u85824642 open "/logs/sftp.log" flags READ mode 0666
